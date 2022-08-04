@@ -119,3 +119,11 @@ __밑줄__
 
 매크로
 [매크로이름(변수)] 형식
+
+[include(문서명)]
+[date] 또는 [datetime]
+[dday(YYYY-MM-DD)]
+[목차] 또는 [tableofcontents] 또는 [toc]
+[각주] 또는 [footnote] 또는 [fn]
+[br]
+[clearfix]
