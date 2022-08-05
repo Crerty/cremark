@@ -34,6 +34,7 @@ __밑줄__
 ^^위첨자^^
 ,,아래첨자,,
 {{리터럴}}
+\문법미적용 ex [\[링크]] > [[링크]]
 
 {{텍스트|textcolor=#color, #color}}
 {{텍스트|+3, textcolor=#color,#color, bgcolor=#color, #color}}
