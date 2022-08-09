@@ -1,5 +1,5 @@
 <img src="https://user-images.githubusercontent.com/65072459/183138115-56b752fa-13a1-4d1f-82e0-0fcc5b88f6c6.png" width="150">
-cremark는 namumark의 비효율적인 문법을 일부 개선하고 다양한 기능을 추가한 문법입니다.
+cremark는 나무마크의 문법을 일부 개선하고 다양한 기능을 추가한 문법입니다.
 
 아직 작성 및 개발 중입니다. 의견은 언제나 환영입니다.
 
