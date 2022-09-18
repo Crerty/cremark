@@ -1,11 +1,6 @@
 <img src="https://user-images.githubusercontent.com/65072459/183138115-56b752fa-13a1-4d1f-82e0-0fcc5b88f6c6.png" width="150">
 cremark는 나무마크의 문법을 일부 개선하고 다양한 기능을 추가한 문법입니다.
 
-blog.crerty.com
-or
-dev.crerty.com
-고민중
-
 -----
 
 나무마크 문법이 다른 마크업 언어에 비해 깔끔한 건 사실이나, 여러 문제점이 존재합니다. cremark는 이러한 문제점을 해결하고, wiki style 등을 통해 비공식적으로 구현한 문법을 공식적으로 도입하며, 이용자가 더욱 편하게 사용할 수 있도록 나무마크를 개선한 결과입니다.
